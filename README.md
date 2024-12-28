@@ -38,9 +38,17 @@
 
 ## 🛠 **Projects**
 
-### 🌐 [Project Name 1](https://github.com/HarshSahu/project-name)
-**Description**: A brief explanation of what the project does and its features.  
-**Tech Stack**: React, Node.js, MongoDB  
+### 🌐 [PG_LIFE](https://github.com/HarshSahu/project-name)
+**Description**: PG Life - Your Ideal Home Away From Home
+
+Welcome to PG Life, your ultimate destination for finding comfortable and affordable paying guest accommodations. Whether you're a student, working professional, or someone looking for a convenient living space, we offer well-maintained PG rooms in prime locations.
+
+Our website provides an easy way to explore and book PG accommodations that suit your budget, preferences, and lifestyle. With facilities like fully furnished rooms, 24/7 security, high-speed internet, and home-cooked meals, we ensure that you experience a hassle-free and comfortable stay.
+
+Browse our wide range of PG options and find the perfect place to live with PG Life, where your comfort is our priority.
+
+  
+**Tech Stack**: React, Php, MySql,JavaScript,Boostrap,Html,Css
 
 ### 🌟 [Project Name 2](https://github.com/HarshSahu/project-name)
 **Description**: A brief explanation of what the project does and its features.  
