@@ -38,7 +38,7 @@
 
 ## 🛠 **Projects**
 
-### 🌐 [PG_LIFE](https://github.com/HarshSahu/project-name)
+### 🌐 [PG_LIFE](https://github.com/harshsahu383/PG-LIFE.git)
 **Description**: PG Life - Your Ideal Home Away From Home
 
 Welcome to PG Life, your ultimate destination for finding comfortable and affordable paying guest accommodations. Whether you're a student, working professional, or someone looking for a convenient living space, we offer well-maintained PG rooms in prime locations.
@@ -50,8 +50,20 @@ Browse our wide range of PG options and find the perfect place to live with PG L
   
 **Tech Stack**: React, Php, MySql,JavaScript,Boostrap,Html,Css
 
-### 🌟 [Project Name 2](https://github.com/HarshSahu/project-name)
-**Description**: A brief explanation of what the project does and its features.  
+### 🌟 [Project Name 2](https://github.com/harshsahu383/Netflix-clone.git)
+**Description**: As part of my BCA coursework, I present the Netflix Clone, a web application built to mimic the core functionalities of Netflix, providing an interactive streaming platform. This project showcases my skills in web development, utilizing a combination of HTML, CSS, JavaScript, and PHP (or any other relevant tech stack you used).
+
+The project includes features such as:
+
+A user-friendly interface similar to Netflix, allowing users to browse content easily.
+Movie and TV show categorization based on genres, popularity, and user preferences.
+Responsive design for seamless viewing on any device (desktop, tablet, mobile).
+Authentication system for user registration and login.
+Search functionality to quickly find content.
+Watchlist feature to save favorite movies and shows.
+This project helps demonstrate my proficiency in full-stack development, database management, and UI/UX design, and serves as a foundation for more advanced web-based streaming services.
+
+
 **Tech Stack**: HTML, CSS, JavaScript  
 
 ---
