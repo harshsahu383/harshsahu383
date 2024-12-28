@@ -50,7 +50,7 @@ Browse our wide range of PG options and find the perfect place to live with PG L
   
 **Tech Stack**: React, Php, MySql,JavaScript,Boostrap,Html,Css
 
-### 🌟 [Project Name 2](https://github.com/harshsahu383/Netflix-clone.git)
+### 🌟 [Netflix Clone](https://github.com/harshsahu383/Netflix-clone.git)
 **Description**: As part of my BCA coursework, I present the Netflix Clone, a web application built to mimic the core functionalities of Netflix, providing an interactive streaming platform. This project showcases my skills in web development, utilizing a combination of HTML, CSS, JavaScript, and PHP (or any other relevant tech stack you used).
 
 The project includes features such as:
