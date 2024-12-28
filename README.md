@@ -57,7 +57,7 @@
 
 ## 📫 **Let’s Connect**
 - [Portfolio](https://your-portfolio-link.com)  
-- [LinkedIn](https://www.linkedin.com/in/harshsahu)  
+- [LinkedIn](https://www.linkedin.com/in/harsh-sahu-3a3930288/)  
 - [Email](mailto:harshsahu1917@gmail.com)  
 
 ---
