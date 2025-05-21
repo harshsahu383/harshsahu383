@@ -33,12 +33,12 @@
 ## 📈 **GitHub Stats**
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsahu383&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSahu&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsahu383&layout=compact&theme=radical)  
 
 ---
 ## 📈🌟 **GitHub Trophy & Streak**
-![Trophy](https://github-profile-trophy.vercel.app/?username=HarshSahu&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HarshSahu&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=harshsahu383&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshsahu383&theme=radical)
 
 
 
