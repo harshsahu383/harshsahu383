@@ -31,7 +31,7 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshSahu&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsahu383&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSahu&layout=compact&theme=radical)  
 
