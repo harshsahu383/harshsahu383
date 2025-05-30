@@ -4,7 +4,7 @@
 📚 Currently pursuing **BCA** and mastering modern web development technologies  
 
 ---
-
+![Profile views](https://komarev.com/ghpvc/?username=harshsahu383&color=blue)
 ## 🚀 **Tech Stack**
 
 ### **Languages**
