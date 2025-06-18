@@ -38,7 +38,7 @@
 ---
 ## 📈🌟 **GitHub Trophy & Streak**
 ![Trophy](https://github-profile-trophy.vercel.app/?username=harshsahu383&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harshsahu383&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=harshsahu383&theme=radical)
 
 
 
