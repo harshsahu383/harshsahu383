@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harsh Sahu  
+# 👋 Hi, I'm Harsh Sahu
 
 🌟 Aspiring **Full-Stack Developer** | Passionate about building impactful and scalable web applications  
 📚 Currently pursuing **BCA** and mastering modern web development technologies  
